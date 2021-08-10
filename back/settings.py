@@ -35,7 +35,7 @@ INSTALLED_APPS = [
 
 if DEBUG:
     INSTALLED_APPS += [
-        "django_extensions",
+        #"django_extensions",
     ]
 
 MIDDLEWARE = [
